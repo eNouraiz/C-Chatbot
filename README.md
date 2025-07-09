@@ -28,6 +28,19 @@ It uses only core C++ syllabus concepts—no external or advanced libraries.
 - Clean, modular file organization
 
 ---
+ll includes and file handling use **relative paths**.  
+Make sure your structure stays intact when downloading/cloning.
 
 ## 🗂 Project Structure
-
+├── headers/
+│ ├── Flirty.h
+│ ├── Funny.h
+│ ├── Angry.h
+│ └── Formal.h
+├── responses/
+│ ├── fl_hi.txt
+│ ├── fl_bye.txt
+│ └── ... (other mood replies)
+├── Functions.h
+├── main.cpp
+└── README.md
