@@ -1,0 +1,4 @@
+Greetings. How may I assist you?
+Farewell. Have a productive day.
+The current temperature is 27°C and sunny
+
